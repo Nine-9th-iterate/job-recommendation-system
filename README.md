@@ -15,6 +15,11 @@ Processing Techniques
 1. นายภัทรพล ทองยอดแก้ว  6409682579  pattarapol.ton@dome.tu.ac.th
    
 Manual / Instructions for your projects starts here !
-# Topic 1
-# Topic 2 
+#  วิธีการติดตั้งและตั้งค่า (bash)
+   1. Clone โปรเจกต์จาก GitHub
+        git clone https://github.com/your-username/job-recommendation-system.git
+        cd job-recommendation-system
+   2. ติดตั้ง dependencies
+        pip install -r requirements.txt
+# วิธีการใช้งานโปรแกรม
 # Topic 3
