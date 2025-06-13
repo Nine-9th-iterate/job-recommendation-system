@@ -49,4 +49,5 @@ cd job-recommendation-system
 
 **รูปภาพ Directory tree ของโปรแกรมงาน**
 
-![markdown](https://github.com/user-attachments/assets/1d2eb123-5064-4585-971c-3d9288386351)
+![image](https://github.com/user-attachments/assets/451d3047-07fa-4e3b-85df-bf521aa3143e)
+
