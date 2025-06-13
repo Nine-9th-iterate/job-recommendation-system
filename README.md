@@ -45,7 +45,7 @@ Manual / Instructions for your projects starts here !
 
 2.2 เปิดโฟลเดอร์โปรเจกต์ชื่อ 2567-2-cs403-final-submission-67-1_13_pps-r1
 
-2.3 เปิดไฟล์โน้ตบุ๊ก: เช่น "final_RS_SBERT.ipynb"
+2.3 เปิดโฟลเดอร์ Notebooks แล้วเปิดไฟล์: เช่น "final_RS_SBERT.ipynb"
    รันแต่ละเซลล์ในโน้ตบุ๊กตามลำดับ เพื่อดูผลลัพธ์:
    
    #1 โปรแกรมโหลดข้อมูลรายวิชาและตำแหน่งงานและ embed ข้อมูล
