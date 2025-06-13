@@ -23,14 +23,15 @@ Manual / Instructions for your projects starts here !
    5. ติดตั้ง git ผ่านลิงค์ https://git-scm.com/downloads/win
 #  วิธีการติดตั้งและตั้งค่าไฟล์โปรเจค (bash)
 1. Clone โปรเจกต์จาก GitHub
-
-git clone https://github.com/ComSciThammasatU/2567-2-cs403-final-submission-67-1_13_pps-r1.git
-
-cd job-recommendation-system
-      
-2. ติดตั้ง dependencies (ดูทั้งหมดใน requirements.txt): pandas, numpy, scikit-learn, sentence-transformers, tqdm, etc.
-      pip install -r requirements.txt
-      
+   1. กดปุ่มสีเขียวในหน้า Github โปรเจคผมแล้วกดคัดลอกลิงค์บน Clone using web URL
+   2. เปิด Visual Studio Code
+   3. Ctrl+Shift+P จากนั้นพิมพ์ "Git: Clone" กด enter
+   4. Ctrl+V เพื่อ paste ลิงค์ clone แล้วกด enter
+   5. เลือก directory ที่จะติดตั้งโปรเจคนี้ แล้วกด enter
+2. ติดตั้ง dependencies (ดูทั้งหมดใน requirements.txt)เช่น pandas, numpy, scikit-learn, sentence-transformers, tqdm, etc.
+   1. เปิด terminal โดยไปที่ขีด 3 ขีดซ้ายบนของ vscode> Terminal> New Terminal
+   2. จากนั้น Run "pip install -r requirements.txt"
+ 
 # วิธีการใช้งานโปรแกรม
 1. 📁 โครงสร้างไฟล์ข้อมูล
 โค้ดทั้งหมดจะอยู่ในไฟล์โน้ตบุ๊กนี้: Notebooks/ ซึ่งจะประกอบไปด้วย "final_RS_Doc2Vec.ipynb", "final_RS_SBERT.ipynb", "final_RS_TF-IDF.ipynb"
