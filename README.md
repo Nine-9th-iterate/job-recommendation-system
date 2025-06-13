@@ -16,8 +16,11 @@ Processing Techniques
    
 Manual / Instructions for your projects starts here !
 #  ติดตั้ง vscode
-   1. Visual Studio Code
-   2. Python ใน Visual Studio Code
+   1. ติดตั้ง Visual Studio Code
+   2. ติดตั้ง Python 3.8+ ใน Visual Studio Code
+   3. ติดตั้ง Jupyter Extension สำหรับ VS Code
+   4. VS Code + Jupyter Extension for VS Code
+   5. ไลบรารี Python(ดูทั้งหมดใน requirements.txt): pandas, numpy, scikit-learn, sentence-transformers, tqdm, etc.
 #  วิธีการติดตั้งและตั้งค่า (bash)
    1. Clone โปรเจกต์จาก GitHub
 
