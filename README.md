@@ -51,6 +51,12 @@ Manual / Instructions for your projects starts here !
    
    #3 แนะนำรายวิชาที่ควรเรียนเพิ่มเติม เพื่อเพิ่มโอกาสในการสมัครงาน
 
+2.4 ใน ipynb ของแต่ละโมเดลสามารถเปลี่ยนข้อมูลใน learner profile ได้
+
+   #1 เปลี่ยน desired_job เป็นอาชีพที่ต้องการ
+
+   #2 เปลี่ยน courses_completed ให้มีคอร์สที่เคยเรียน
+   
 **รูปภาพ Directory tree ของโปรแกรมงาน**
 
 ![image](https://github.com/user-attachments/assets/451d3047-07fa-4e3b-85df-bf521aa3143e)
