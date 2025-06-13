@@ -17,6 +17,7 @@ Processing Techniques
 Manual / Instructions for your projects starts here !
 #  วิธีการติดตั้งและตั้งค่า (bash)
    1. Clone โปรเจกต์จาก GitHub
+
         git clone https://github.com/your-username/job-recommendation-system.git
 
         cd job-recommendation-system
