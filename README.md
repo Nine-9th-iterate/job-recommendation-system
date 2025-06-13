@@ -18,8 +18,9 @@ Manual / Instructions for your projects starts here !
 #  วิธีการติดตั้งและตั้งค่า (bash)
    1. Clone โปรเจกต์จาก GitHub
         git clone https://github.com/your-username/job-recommendation-system.git
+
         cd job-recommendation-system
-   2. ติดตั้ง dependencies
+   3. ติดตั้ง dependencies
         pip install -r requirements.txt
 # วิธีการใช้งานโปรแกรม
 # Topic 3
