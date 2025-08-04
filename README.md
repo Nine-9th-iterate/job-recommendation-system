@@ -11,7 +11,7 @@ Processing Techniques
 **ผู้จัดทำโครงงาน:**
 1. นายภัทรพล ทองยอดแก้ว  6409682579  pattarapol.ton@dome.tu.ac.th
    
-Manual / Instructions for your projects starts here !
+Manual / Instructions for the project starts here !
 #  ติดตั้ง vscode และ Git
    1. ติดตั้ง Visual Studio Code
    2. ติดตั้ง Python 3.8+ ใน Visual Studio Code
